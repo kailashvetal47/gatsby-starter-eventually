@@ -8,7 +8,7 @@ import SlideShow from '../components/SlideShow';
 
 var settings = {
   images: [
-    { url: require('../assets/images/bg01.jpg'), position: 'center' },
+    { url: require('../assets/images/slide_1_hero.jpg'), position: 'center' },
     { url: require('../assets/images/bg02.jpg'), position: 'center' },
     { url: require('../assets/images/bg03.jpg'), position: 'center' },
   ],
