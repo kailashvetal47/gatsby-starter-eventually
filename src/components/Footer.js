@@ -19,8 +19,10 @@ export default function Footer() {
       <ul className="copyright">
         <li>&copy; Eventually.</li>
         <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
-          <a href="http://html5up.net">HTML5 UP</a>
+          Credits: 
+          <a href="http://unsplash.com/">Unsplash</a> 
+          +
+          <a href="https://geek.kv47.in">Blog</a>
         </li>
       </ul>
     </footer>
